@@ -90,12 +90,16 @@ github的操作
 cp  mkdir  touch
 将文件添加到github里面
 git add
+
 查看状态
 git status 
+
 保存刚才的修改 
 git commit -m “描述符”
+
 回到主分支
 git checkout master
+
 上传修改的文件
 git push origin master
 
